@@ -1,0 +1,18 @@
+HLF Suplementos Premium — Microsite
+Copyright (c) 2026 Edu Sidegum — Distribuidor Independente Herbalife
+
+Todos os direitos reservados.
+
+Nenhuma parte deste repositório — incluindo código-fonte (HTML, CSS,
+JavaScript), textos, estrutura de conteúdo, imagens, logotipos e dados
+de preço — pode ser copiada, reproduzida, distribuída, modificada ou
+publicada sem autorização prévia e expressa do autor, exceto para fins
+de manutenção e publicação do próprio site.
+
+Marcas citadas: Herbalife e Herbalife24 são marcas registradas da
+Herbalife International of America, Inc. A menção neste repositório é
+meramente referencial, no exercício de atividade de Distribuidor
+Independente autorizado, e não implica afiliação, endosso ou
+patrocínio além do vínculo de distribuição.
+
+Para solicitar autorização de uso: edusidegum@gmail.com

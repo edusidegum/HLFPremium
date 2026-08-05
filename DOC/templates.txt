@@ -1,0 +1,1023 @@
+cadastri.html 
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Junte-se à Nossa Organização | Herbalife</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+        /* Estilo exclusivo da página de cadastro */
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        .parallax-bg {
+            background-image: url('img/novoconsultor.jpg');
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 30px 16px;
+        }
+        /* Card translúcido com vidro fosco */
+        .glass-card {
+            background: rgba(255, 255, 255, 0.78);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border-radius: 24px;
+            padding: 35px 24px;
+            max-width: 480px;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+        }
+        .glass-card h1 {
+            font-size: 22px;
+            margin-bottom: 10px;
+            color: #1a1a1a;
+        }
+        .glass-card p {
+            color: #333;
+            font-size: 14px;
+            line-height: 1.6;
+            margin-bottom: 18px;
+        }
+        /* Container de vídeo formato Smartphone (9:16) */
+        .phone-frame {
+            max-width: 280px;
+            width: 100%;
+            margin: 0 auto 20px auto;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+            border: 3px solid #fff;
+        }
+        .video-wrap {
+            position: relative;
+            padding-bottom: 177.77%; /* proporção 9:16 */
+            height: 0;
+        }
+        .video-wrap iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+        /* Benefícios em lista */
+        .benefit-list {
+            text-align: left;
+            background: rgba(0, 0, 0, 0.04);
+            border-radius: 14px;
+            padding: 18px;
+            margin: 20px 0;
+        }
+        .benefit-list p {
+            margin: 6px 0;
+            font-size: 13px;
+            color: #2D2D2D;
+        }
+        /* Subtítulo do QR */
+        .qr-subtitle {
+            font-size: 12px;
+            color: #666;
+            margin-top: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="parallax-bg">
+        <div class="glass-card">
+
+            <h1>Inicie Sua Jornada</h1>
+            <p>Assista ao método que está transformando rotinas de nutrição e negócios em Novo Hamburgo e em todo o Brasil.</p>
+
+            <!-- Vídeo YouTube Shorts no formato smartphone -->
+            <div class="phone-frame">
+                <div class="video-wrap">
+                    <iframe src="https://www.youtube.com/embed/grVp3WsJunA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <!-- Benefícios -->
+            <div class="benefit-list">
+                <p>🚀 Suporte completo no protocolo de transformação</p>
+                <p>💎 Descontos de 23% a 32% (Cliente Premium ou Consultor)</p>
+                <p>📈 Margens profissionais com repetição de vendas</p>
+            </div>
+
+            <!-- QR Code com link oficial Herbalife -->
+            <p style="font-weight:600; font-size:14px; color:#1a1a1a;">Escaneie ou toque no QR Code para abrir sua conta oficial:</p>
+            <a href="https://accounts.myherbalife.com/Account/Create?appId=1&qrFlow=1&locale=pt-BR&SponsorId=ZRdWSj1jMGH1aeeGrHPR2A==&cmp=m_pt_br_wbs_dssignup_btn_nap_copylink_20250305" target="_blank">
+                <img src="img/qrcodeedusidegum.png" alt="QR Code Cadastro Oficial Herbalife" style="width: 180px; margin: 10px auto; display:block; border-radius:12px; cursor:pointer; transition: transform 0.2s;">
+            </a>
+            <p class="qr-subtitle">🔗 Você será direcionado ao site oficial Herbalife</p>
+
+            <!-- Botão WhatsApp -->
+            <a href="https://wa.me/5551999663200?text=Quero%20Ser%20um%20Consultor%20Herbalife,%20como%20faço%20?" class="btn-primary-whats" style="margin-top: 20px;">💻 QUERO SER UM DISTRIBUIDOR</a>
+
+            <!-- Link de retorno -->
+            <div style="margin-top: 16px;">
+                <a href="index.html" style="text-decoration:none; color:#666; font-size:12px;">← Voltar para Home</a>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+-*/-*/-*/-*/-*/-*/-*/-*/-*/-*/-*/-*/
+
+politicadeprivacidade.html
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+   
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Política de Privacidade</title>
+    <meta name="description" content="Política de Privacidade e Proteção de Dados (LGPD) da SNDLimp. Saiba como protegemos seus dados pessoais.">
+    <meta name="keywords" content="política de privacidade, LGPD, proteção de dados, privacidade">
+    <meta name="author" content="IEEE3S">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#0d0d0d">
+    <link rel="canonical" href="https://edusidegum.github.io/sndlimp/privacidade.html">
+    <meta property="og:title" content="Política de Privacidade">
+    <meta property="og:description" content="Conheça nossa política de privacidade e como protegemos seus dados de acordo com a LGPD.">
+    <meta property="og:image" content="https://edusidegum.github.io/menu/img/img/robots.webp">
+    <meta property="og:url" content="https://edusidegum.github.io/menu/compartilhado/privacidade.html">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+    
+    <title>Política de Privacidade</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #ffffff;
+            color: #1a1a1a;
+            line-height: 1.8;
+            padding: 40px 20px;
+        }
+        .container { max-width: 780px; margin: 0 auto; }
+        h1 { font-size: 1.4rem; font-weight: 700; margin-bottom: 24px; }
+        h2 { font-size: 1rem; font-weight: 700; margin: 20px 0 8px; }
+        p { font-size: 0.9rem; margin-bottom: 12px; }
+        ul { font-size: 0.9rem; padding-left: 20px; margin-bottom: 12px; }
+        li { margin-bottom: 4px; }
+    </style>
+</head>
+<body>
+<div class="container">
+
+    <h1>Política de Privacidade</h1>
+
+    <p>Proteger sua privacidade é importante para nós. Esta Política de Privacidade descreve como coletamos, utilizamos e protegemos seus dados pessoais, em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 – LGPD).</p>
+
+    <h2>Coleta de Informações</h2>
+    <p>Podemos coletar informações pessoais quando você se cadastra, realiza compras, participa de promoções ou interage com nossos serviços. As informações podem incluir nome, endereço, telefone e dados de pagamento.</p>
+
+    <h2>Bases Legais para Tratamento</h2>
+    <p>O tratamento de dados pessoais será realizado com fundamento nas bases legais previstas na LGPD, incluindo:</p>
+    <ul>
+        <li>Execução de contrato ou procedimentos preliminares relacionados.</li>
+        <li>Cumprimento de obrigação legal ou regulatória.</li>
+        <li>Exercício regular de direitos em processo judicial, administrativo ou arbitral.</li>
+        <li>Legítimo interesse, respeitados os direitos e liberdades fundamentais do titular.</li>
+        <li>Consentimento, quando aplicável.</li>
+    </ul>
+
+    <h2>Uso das Informações</h2>
+    <p>As informações coletadas são utilizadas para:</p>
+    <ul>
+        <li>Processar pedidos e transações.</li>
+        <li>Fornecer suporte ao cliente.</li>
+        <li>Enviar comunicações relacionadas a produtos e serviços.</li>
+        <li>Cumprir obrigações legais e regulatórias.</li>
+    </ul>
+
+    <h2>Compartilhamento de Informações</h2>
+    <p>O Consultor Independente HLF não vende nem aluga suas informações pessoais. Podemos compartilhar dados apenas com parceiros de confiança que auxiliam na operação dos serviços, sempre em conformidade com esta Política de Privacidade e com a LGPD. Em caso de transferência internacional de dados, serão adotadas medidas para garantir nível adequado de proteção.</p>
+
+    <h2>Segurança</h2>
+    <p>Adotamos medidas técnicas e administrativas para proteger suas informações contra acesso não autorizado, alteração, divulgação ou destruição. Em caso de incidente de segurança que possa acarretar risco ou dano relevante, notificaremos a Autoridade Nacional de Proteção de Dados (ANPD) e os titulares afetados, conforme exigido pela LGPD.</p>
+
+    <h2>Cookies e Tecnologias Semelhantes</h2>
+    <p>Podemos utilizar cookies e tecnologias semelhantes para melhorar sua experiência, analisar tendências e administrar o site. Você pode configurar seu navegador para recusar cookies, mas isso pode limitar algumas funcionalidades.</p>
+
+    <h2>Direitos dos Titulares</h2>
+    <p>Nos termos da LGPD, você tem direito a:</p>
+    <ul>
+        <li>Confirmar a existência de tratamento.</li>
+        <li>Acessar seus dados pessoais.</li>
+        <li>Corrigir dados incompletos, inexatos ou desatualizados.</li>
+        <li>Solicitar anonimização, bloqueio ou eliminação de dados desnecessários ou excessivos.</li>
+        <li>Portabilidade dos dados a outro fornecedor de serviço ou produto.</li>
+        <li>Eliminação dos dados tratados com consentimento.</li>
+        <li>Informação sobre compartilhamento de dados com terceiros.</li>
+        <li>Revogação do consentimento a qualquer momento.</li>
+        <li>Revisão de decisões automatizadas que afetem seus interesses.</li>
+    </ul>
+
+    <h2>Retenção de Dados</h2>
+    <p>Os dados pessoais serão armazenados apenas pelo tempo necessário para cumprir as finalidades descritas nesta Política ou conforme exigido por lei. Após esse período, serão eliminados ou anonimizados.</p>
+
+    <h2>Encarregado de Dados</h2>
+    <p>O Consultor Independente HLF designa um encarregado pelo tratamento de dados pessoais (DPO), responsável por atender às solicitações dos titulares e da ANPD. O contato pode ser realizado através dos telefones disponíveis na página de contato.</p>
+
+    <h2>Alterações na Política</h2>
+    <p>O Consultor Independente HLF pode atualizar esta Política de Privacidade periodicamente. Recomendamos que você revise regularmente para estar informado sobre como protegemos suas informações.</p>
+
+    <h2>Contato</h2>
+    <p>Para dúvidas ou solicitações relacionadas a esta Política de Privacidade e ao exercício de seus direitos como titular de dados, entre em contato através dos telefones disponíveis na página de contato.</p>
+
+    <p>Este site está hospedado em plataforma de terceiros (GitHub). O Consultor Independente HLF não se responsabiliza por falhas, incidentes ou vulnerabilidades decorrentes da infraestrutura do provedor de hospedagem. A responsabilidade sobre a segurança e privacidade dos dados armazenados nos servidores da plataforma é de competência exclusiva do provedor. O Consultor Independente HLF compromete-se a adotar medidas razoáveis para garantir que o conteúdo disponibilizado esteja em conformidade com a legislação aplicável, mas não pode assegurar proteção absoluta contra riscos externos relacionados à hospedagem.</p>
+
+</div>
+</body>
+</html>  
+
+
+
+
+-*/-*/-*/*-/-*/-*/-*/-*/-*/-*/
+
+
+programashlf2026.html
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📂 Painel de Controle — Edu Sidegum</title>
+    <meta name="description" content="Painel de controle privado para gestão de modelos de código, scripts de integração e links de repositórios do ecossistema SNDLimp. Acesso restrito e não indexado.">
+    <meta name="author" content="Edu Sidegum — Consultor Independente Herbalife">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="theme-color" content="#266431">
+    <link rel="canonical" href="https://edusidegum.github.io/menu/">
+    <meta property="og:title" content="📂 Painel de Controle — Edu Sidegum">
+    <meta property="og:description" content="Painel de controle privado para gestão de modelos de código, scripts de integração e links de repositórios do ecossistema SNDLimp.">
+    <meta property="og:image" content="https://edusidegum.github.io/menu/img/robots.jpg">
+    <meta property="og:url" content="https://edusidegum.github.io/menu/index.html">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="pt_BR">
+    <script src="bloco-includes.js" defer></script>
+
+    <!-- Link para a folha de estilos (style.css deve ficar na mesma pasta) -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="wrap">
+    <header class="top">
+      <h2 class="contact">EduSidegum - (51)99966-3200 - edusidegum@gmail.com</h2>
+      <div class="actions">
+        <a class="btn whatsapp" href="https://wa.me/5519999663200?text=Quero%20Comprar%20Com%20descontos" target="_blank" rel="noopener noreferrer">Quero Comprar Com descontos</a>
+      </div>
+    </header>
+
+    <section class="table-wrap">
+      <table class="fracionados">
+        <caption style="caption-side:top;text-align:left;font-weight:600;padding:8px 0;color:#266431;">Programas 15 e 30 dias — HLf</caption>
+        <thead>
+          <tr>
+            <th>Programa</th>
+            <th>Produtos</th>
+            <th>Investimento</th>
+            <th>Valor por refeição</th>
+          </tr>
+        </thead>
+        <tbody>
+
+          <tr class="category"><td colspan="4">Programas</td></tr>
+
+          <tr class="product">
+            <td>Básico (15 dias)</td>
+            <td>1 Shake<br>1 NutreV</td>
+            <td>R$ 325,00</td>
+            <td>R$ 10,85</td>
+          </tr>
+
+          <tr class="product">
+            <td>Básico (30 dias)</td>
+            <td>2 Shakes<br>2 NutreVs</td>
+            <td>R$ 650,00</td>
+            <td>R$ 21,70</td>
+          </tr>
+
+          <tr class="product">
+            <td>Turbo (15 dias)</td>
+            <td>1 Shake<br>1 NutreV<br>1 Herbal Concentrate 50g</td>
+            <td>R$ 547,00</td>
+            <td>R$ 10,85 + R$ 7,40 (litro do chá)</td>
+          </tr>
+
+          <tr class="product">
+            <td>Turbo (30 dias)</td>
+            <td>2 Shakes<br>2 NutreVs<br>1 Herbal Concentrate 50g</td>
+            <td>R$ 872,00</td>
+            <td>R$ 10,85 + R$ 7,40 (litro do chá)</td>
+          </tr>
+
+          <tr class="product">
+            <td>Super Turbo (30 dias)</td>
+            <td>2 Shakes<br>2 NutreVs<br>1 Herbal Concentrate 50g<br>1 Pó de Proteína 240g</td>
+            <td>R$ 1.093,00</td>
+            <td>R$ 15,25 + R$ 7,40 (litro do chá)</td>
+          </tr>
+
+          <tr class="product">
+            <td>Seca Barriga (30 dias)</td>
+            <td>2 Shakes<br>2 NutreVs<br>1 Herbal Concentrate 50g<br>1 Pó de Proteína 240g<br>1 Fiber Concentrate</td>
+            <td>R$ 1.299,00</td>
+            <td>R$ 15,25 + R$ 7,40 (litro do chá) + R$ 5,15 (por lanche)</td>
+          </tr>
+
+          <tr class="cta-row">
+            <td colspan="4" style="text-align:center;padding-top:14px;">
+              <a class="btn catalog large" href="https://catalogoherbalife.com.br/edusidegum#consultor/pagina-23" target="_blank" rel="noopener noreferrer">VER CATÁLOGO</a>
+            </td>
+          </tr>
+
+        </tbody>
+      </table>
+    </section>
+
+    <footer class="note" style="margin-top:12px;">
+      <p style="color:#666;">Ecosistema: Consultor Herbalife — atendemos todo o Brasil.</p>
+    </footer>
+  </main>
+</body>
+</html>
+
+
+
+
+-*/-*/-*-*-**--*/*-/-/-*/
+
+
+hypedrink     ->   index.html  
+
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO On-Page -->
+    <meta name="description" content="Distribuidor Independente Herbalife - RS / BR. Conheça o Hype Drink, nutrição de alta performance com desconto de até 32%. Acompanhamento personalizado e entrega em todo Brasil.">
+    <meta name="author" content="Edu Sidegum — Consultor Independente Herbalife">
+    <meta name="theme-color" content="#78BE20">
+    <link rel="canonical" href="https://edusidegum.github.io/hypedrink/">
+    <meta name="geo.region" content="BR-RS">
+    <meta name="geo.placename" content="Novo Hamburgo">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Hype Drink — Nutrição de Alta Performance | Herbalife">
+    <meta property="og:description" content="Refrescância, foco e queima calórica inteligente. Seja Cliente Premium com até 32% de desconto. Entrega grátis em todo Brasil.">
+    <meta property="og:image" content="https://edusidegum.github.io/hypedrink/img/HypeDrink.webp">
+    <meta property="og:url" content="https://edusidegum.github.io/hypedrink/">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="pt_BR">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Hype Drink — Nutrição de Alta Performance | Herbalife">
+    <meta name="twitter:description" content="Refrescância, foco e queima calórica inteligente. Seja Cliente Premium com até 32% de desconto.">
+    <meta name="twitter:image" content="https://edusidegum.github.io/hypedrink/img/HypeDrink.webp">
+
+    <!-- Proteção contra cópia -->
+    <meta name="protecao-copia" content="ativado">
+
+    <title>Hype Drink — Nutrição de Alta Performance | Distribuidor Herbalife</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet" media="print" onload="this.onload=null;this.media='all'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet"></noscript>
+
+    <!-- Preload LCP -->
+    <link rel="preload" as="image" href="img/HypeDrink.webp" fetchpriority="high">
+
+    <!-- CSS externo assíncrono -->
+    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="assets/css/style.css"></noscript>
+
+    <!-- CSS Crítico Inline -->
+    <style>
+        .sticky-header {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%;
+            background: #78BE20;
+            z-index: 1000;
+            text-align: center;
+            padding: 12px 16px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        .sticky-header a {
+            color: #fff;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            font-size: 15px;
+            text-decoration: none;
+            letter-spacing: 0.5px;
+        }
+        .header-spacer { height: 56px; }
+        body { font-family: 'Open Sans', Arial, Helvetica, sans-serif; }
+        h1, h2, h3 { font-family: 'Montserrat', Arial Black, sans-serif; }
+    </style>
+
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "Organization",
+                "name": "Edu Sidegum — Consultor Independente Herbalife",
+                "url": "https://edusidegum.github.io/hypedrink/",
+                "description": "Distribuidor Independente Herbalife com atuação no Rio Grande do Sul e entrega em todo Brasil.",
+                "contactPoint": {
+                    "@type": "ContactPoint",
+                    "telephone": "+55 51 99966-3200",
+                    "contactType": "customer service",
+                    "areaServed": "BR",
+                    "availableLanguage": "pt-BR"
+                },
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Novo Hamburgo",
+                    "addressRegion": "RS",
+                    "addressCountry": "BR"
+                },
+                "sameAs": ["https://wa.me/5551999663200"]
+            },
+            {
+                "@type": "Product",
+                "name": "Hype Drink",
+                "description": "Refrescância, foco e queima calórica inteligente em um copo portátil de pura nutrição.",
+                "brand": { "@type": "Brand", "name": "Herbalife" },
+                "offers": {
+                    "@type": "Offer",
+                    "description": "Descontos progressivos de até 32% para Cliente Premium",
+                    "availability": "https://schema.org/InStock",
+                    "areaServed": { "@type": "Country", "name": "BR" }
+                }
+            },
+            {
+                "@type": "WebSite",
+                "name": "Hype Drink — Nutrição de Alta Performance | Herbalife",
+                "url": "https://edusidegum.github.io/hypedrink/",
+                "description": "Seja Cliente Premium com até 32% de desconto. Entrega grátis em todo Brasil.",
+                "inLanguage": "pt-BR"
+            },
+            {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://edusidegum.github.io/hypedrink/" },
+                    { "@type": "ListItem", "position": 2, "name": "Hype Drink Fresh", "item": "https://edusidegum.github.io/hypedrink/#experiencia" }
+                ]
+            }
+        ]
+    }
+    </script>
+</head>
+
+
+<body>
+    <!-- ═══════════ HEADER STICKY ═══════════ -->
+    <header class="sticky-header" role="banner" aria-label="Barra de navegação principal">
+        <a href="https://edusidegum.github.io/hypedrink/" aria-label="Página inicial Hype Drink" class="topbar-brand">
+          
+          <img src="img/Herbalife-Logo.webp" alt="Consultor Independente" class="topbar-logo" width="128" height="128">
+         
+        </a>
+        <nav class="menu-dropdown" aria-label="Menu de páginas">
+            <button class="menu-toggle" aria-label="Abrir menu">☰ Menu</button>
+            <ul class="menu-lista">
+                <li><a href="https://catalogoherbalife.com.br/edusidegum" target="_blank" rel="noopener">📖 Catálogo Oficial</a></li>
+                <li><a href="https://edusidegum.github.io/cadastro/cadastro.html" target="_blank" rel="noopener">⭐ Cliente Premium</a></li>
+                <li><a href="https://edusidegum.github.io/cadastro/cadastro.html" target="_blank" rel="noopener">🚀 Novo Consultor</a></li>
+            </ul>
+        </nav>
+        <a href="https://wa.me/5551999663200?text=Quero%20Saber%20mais%20Sobre%20o%20HypeDrink" class="btn-cta" target="_blank" rel="noopener" aria-label="Falar no WhatsApp">💬 Fale Conosco</a>
+    </header>
+    <div class="header-spacer"></div>
+
+    <!-- ═══════════ CONTEÚDO PRINCIPAL ═══════════ -->
+    <main class="container" role="main">
+        <!-- Breadcrumb -->
+        <nav aria-label="Breadcrumb" style="font-size:12px;color:#999;margin-bottom:12px;padding:0 4px;">
+            <ol style="list-style:none;display:flex;gap:6px;padding:0;margin:0;">
+                <li><a href="index.html" style="color:#78BE20;text-decoration:none;">Home</a></li>
+                <li style="color:#bbb;">›</li>
+                <li aria-current="page" style="color:#666;">Hype Drink</li>
+            </ol>
+        </nav>
+
+        <!-- Experiência Hype Drink -->
+        <section class="card" id="experiencia" style="border:2px solid var(--primary);" aria-labelledby="headline-experiencia">
+            <h2 id="headline-experiencia">A Experiência Hype Drink</h2>
+            <p style="margin-bottom:20px;">Refrescância, foco e queima calórica inteligente em um copo portátil de pura nutrição.</p>
+            <div style="aspect-ratio:800/600;width:100%;overflow:hidden;border-radius:15px;box-shadow:0 6px 18px rgba(0,0,0,0.08);margin-bottom:25px;">
+                <img src="img/HypeDrink.webp" width="800" height="600" alt="Hype Drink Fresh — bebida refrescante de nutrição Herbalife" fetchpriority="high" decoding="async" style="width:100%;height:100%;object-fit:contain;display:block;">
+            </div>
+            <p><strong>Clique no botão de imagem abaixo</strong> para aprender como preparar a sua receita perfeita em Novo Hamburgo ou qualquer lugar do Brasil:</p>
+            <a href="preparo.html" aria-label="Ver instruções de preparo do Hype Drink">
+                <img class="img-fluid img-link" src="img/HypeSelo.webp" width="400" height="400" alt="Botão com selo para acessar instruções de preparo do Hype Drink">
+            </a>
+            <div style="text-align:center;margin:20px 0;">
+                <a href="investimento.html" style="display:inline-block;padding:10px 24px;border:1px solid #ccc;border-radius:50px;color:#888;background:#fff;font-family:'Montserrat',sans-serif;font-size:13px;font-weight:700;text-decoration:none;text-transform:uppercase;letter-spacing:0.5px;transition:all 0.2s;">📊 Ver Investimento</a>
+            </div>
+            <img class="img-fluid" src="img/HypeVantagens.webp" width="800" height="600" alt="Lista de vantagens do Hype Drink: refrescância, foco e queima calórica" loading="lazy">
+            <a href="https://wa.me/5551999663200?text=Quero%20Saber%20mais%20Sobre%20o%20HypeDrink" class="btn-primary-whats" aria-label="Falar sobre Hype Drink no WhatsApp">Saber Mais no WhatsApp</a>
+        </section>
+
+        <!-- Sua Jornada de Transformação -->
+        <section class="card" aria-labelledby="headline-jornada">
+            <h1 id="headline-jornada">Sua Jornada de Transformação</h1>
+            <p style="margin-bottom:20px;font-size:16px;">Descubra como otimizar a sua rotina com nutrição de elite.</p>
+            <img class="img-fluid" src="img/composicaocorporal.webp" width="800" height="600" alt="Evolução de composição corporal com protocolo de nutrição Herbalife — resultados individuais podem variar" loading="lazy">
+            <p style="font-size:13px;font-style:italic;">Imagens representativas de evolução de composição corporal. Os resultados variam de pessoa para pessoa.</p>
+        </section>
+
+        <div class="separator-1" aria-hidden="true"></div>
+
+        <!-- Ciência a Serviço do Seu Performance -->
+        <section class="card" aria-labelledby="headline-ciencia">
+            <h2 id="headline-ciencia">Ciência a Serviço do Seu Performance</h2>
+            <p style="margin-bottom:25px;">Utilizamos a liderança global da marca número 1 em controle de peso e bem-estar do mundo para respaldar seus objetivos diários.</p>
+            <img class="img-fluid" src="img/laboratorio.webp" width="800" height="600" alt="Selo de controle científico e controle analítico com mais de 300 cientistas e PhDs" loading="lazy">
+            <img class="img-fluid" src="img/numeroumdomundo.webp" width="800" height="600" alt="Certificação Herbalife como marca número um do mundo em nutrição e bem-estar" loading="lazy">
+        </section>
+
+        <div class="separator-2" aria-hidden="true"></div>
+
+        <!-- Chancela de Atletas Profissionais -->
+        <section class="card" aria-labelledby="headline-chancela">
+            <h2 id="headline-chancela">Chancela de Atletas Profissionais</h2>
+            <p style="margin-bottom:20px;">Parceria de confiança que inspira alta performance mundial diariamente.</p>
+            <img class="img-fluid" src="img/cr7_20anos.webp" width="800" height="600" alt="Cristiano Ronaldo celebrando 20 anos de parceria com a Herbalife Nutrition" loading="lazy">
+            <h3 style="margin-top:30px;font-size:15px;">Certificados e Padrões de Excelência</h3>
+            <p style="font-size:12px;color:#888;">Toque na miniatura para ampliar</p>
+            <div class="selos-carrossel" role="list" aria-label="Galeria de certificados e selos de excelência">
+                <img src="img/selos/selo1.webp"   width="200" height="200" alt="Certificado 1"  role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+                <img src="img/selos/selo12.webp"  width="200" height="200" alt="Certificado 2"  role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+                <img src="img/selos/selo123.webp" width="200" height="200" alt="Certificado 3"  role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+                <img src="img/selos/selo4.webp"   width="200" height="200" alt="Certificado 4"  role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+                <img src="img/selos/selo45.webp"  width="200" height="200" alt="Certificado 5"  role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+                <img src="img/selos/selo456.webp" width="200" height="200" alt="Certificado 6"  role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+                <img src="img/selos/selo7.webp"   width="200" height="200" alt="Certificado 7"  role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+                <img src="img/selos/selo78.webp"  width="200" height="200" alt="Certificado 8"  role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+                <img src="img/selos/selo789.webp" width="200" height="200" alt="Certificado 9"  role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+                <img src="img/selos/selo9.webp"   width="200" height="200" alt="Certificado 10" role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+                <img src="img/selos/selo91.webp"  width="200" height="200" alt="Certificado 11" role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+                <img src="img/selos/selo911.webp" width="200" height="200" alt="Certificado 12" role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+                <img src="img/selos/selo913.webp" width="200" height="200" alt="Certificado 13" role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+                <img src="img/selos/selo914.webp" width="200" height="200" alt="Certificado 14" role="listitem" loading="lazy" onclick="openLightbox(this.src)">
+            </div>
+        </section>
+
+        <div class="separator-3" aria-hidden="true"></div>
+
+        <!-- Cliente Premium -->
+        <section class="card" style="background:#555;color:white;" aria-labelledby="headline-premium">
+            <h2 id="headline-premium">Seja um Cliente Premium</h2>
+            <p style="color:#DDD;margin-bottom:20px;">Aproveite os descontos progressivos de até 32% sem cadastros burocráticos ou obrigatoriedades mensais.</p>
+            <a href="https://edusidegum.github.io/cadastro/cadastro.html" target="_blank" rel="noopener" class="btn-secondary" aria-label="Ver vantagens do Cliente Premium (abre em nova aba)">VER VANTAGENS CLIENTE PREMIUM</a>
+        </section>
+    </main>
+
+    <!-- ═══════════ RODAPÉ ═══════════ -->
+    <footer role="contentinfo">
+        <p style="font-size:14px;margin-bottom:12px;"><strong>Distribuidor Independente Herbalife: Edu Sidegum</strong> — Novo Hamburgo/RS/Brasil</p>
+        <p>
+            <a href="https://catalogoherbalife.com.br/edusidegum" target="_blank" rel="noopener" style="color:#78BE20;font-weight:bold;font-size:15px;text-decoration:none;border-bottom:2px solid rgba(120,190,32,0.4);padding-bottom:2px;" aria-label="Acessar catálogo oficial de produtos Herbalife (abre em nova aba)">📖 Acesse meu Catálogo Oficial de Produtos</a>
+        </p>
+        <p style="margin-top:16px;font-size:11px;opacity:0.7;max-width:500px;margin-left:auto;margin-right:auto;">Aviso: Atendimento em compliance com as normas Herbalife. Imagens autorizadas e chanceladas para direitos de uso. A entrega grátis em todo o Brasil segue critérios logísticos oficiais.</p>
+
+        <!-- Disclaimer -->
+        <div style="max-width:650px;margin:10px auto 0;padding:12px 16px;border-top:1px solid #e0e0e0;text-align:center;">
+            <p style="font-size:11px;color:#999;line-height:1.5;margin:0;">
+                <strong>DISCLAIMER:</strong> Os resultados apresentados variam de pessoa para pessoa, dependendo de fatores como metabolismo, adesão ao protocolo e prática de atividades físicas. Os produtos Herbalife são suplementos alimentares e não medicamentos. Consulte um médico ou nutricionista antes de iniciar qualquer programa nutricional. <strong>Edu Sidegum</strong> — Distribuidor Independente Herbalife. Imagens meramente ilustrativas.
+            </p>
+        </div>
+    </footer>
+
+    <!-- ═══════════ LIGHTBOX ═══════════ -->
+    <div id="lightbox" role="dialog" aria-modal="true" aria-label="Visualizador de imagem ampliada" onclick="closeLightbox()">
+        <span class="close-btn" aria-label="Fechar imagem ampliada">&times;</span>
+        <img id="lightbox-img" src="" alt="Imagem ampliada">
+    </div>
+
+    <!-- ═══════════ SCRIPTS ═══════════ -->
+  <script src="https://edusidegum.github.io/menu/scripts/bloco-incluir.js" defer></script>
+    <script>
+        function openLightbox(src) {
+            document.getElementById('lightbox-img').src = src;
+            document.getElementById('lightbox').style.display = 'flex';
+            document.body.style.overflow = 'hidden';
+        }
+        function closeLightbox() {
+            document.getElementById('lightbox').style.display = 'none';
+            document.body.style.overflow = '';
+        }
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') closeLightbox();
+        });
+    </script>
+</body>
+</html>   
+
+
+
+
+-*/-*/-*/*-*--*/-//-
+
+
+hypedrink     ->   preparo.html
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <script src="https://edusidegum.github.io/menu/bloco-includes.js" defer></script>
+
+    <!-- ═══════════ SEO LOCAL • Estadual  ═══════════ -->
+    <meta name="description" content="Herbalife Distribuidor Independente  - Brasil, Rio Grande Do Sul, Vale do Sinos">
+
+    <meta name="keywords" content="Shake Herbalife, Shake nº 1, Controle de Peso, Chá Verde , Cha Termogênicos, Suplementos , Vitaminas, Espaço Vida Saudável, Espaço Herbalife, Oportunidade de Negócio, Distribuidor Herbalife, Vendedor Herbalife, Vale do Sinos, Vale do Taquari, Novo Hamburgo, São Leopoldo, Campo Bom, Sapiranga, Estância Velha, Portão, Lajeado, Estrela, Teutônia, Encantado, Arroio do Meio, Taquari, Poço das Antas, Rio Grande do Sul, RS, Brasil">
+
+    <meta name="geo.region" content="BR-RS">
+    <meta name="geo.placename" content="Vale do Sinos • Vale do Taquari • Rio Grande do Sul • Brasil">
+    <meta name="geo.position" content="-29.4333;-51.4167">
+    <meta name="ICBM" content="-29.6887, -51.1344">
+
+    <meta name="DC.coverage" content="Vale do Sinos, Vale do Taquari, Rio Grande do Sul, Brasil">
+    <meta name="DC.description" content="Distribuidor Herbalife atende todo o Brasil, entrega direta via Frete Grátis Cliente Premium Herbalife. ">
+
+    
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet" media="print" onload="this.onload=null;this.media='all'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="assets/css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO On-Page -->
+    <meta name="description" content="Herbalife Distribuidor Independente . Atendimento a todo o Brasil via Cliente Premium Herbalife. consultoria especializada.">
+    <meta name="author" content="Eduardo Sidegum">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#0d0d0d">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Herbalife Distribuidor Independente autorizado.">
+    <meta property="og:description" content="Herbalife, nutrição para uma vida melhor">
+    <meta property="og:image" content="https://edusidegum.github.io/hypedrink/img/Herbalife-Logo.png">
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:url" content="https://edusidegum.github.io/hypedrink/">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="pt_BR">
+
+    <title>Hymedrink - Modo de Preparo - Herbalife Distribuidor Independente</title>
+
+    <link rel="canonical" href="https://edusidegum.github.io/hypedrink/">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <main class="container">
+        
+        <div class="card">
+            <h1>Preparando a sua Melhor Versão</h1>
+            <p style="margin-bottom: 25px;">O Hype Drink é uma bebida refrescante e nutritiva que integra componentes avançados para foco, bem-estar e energia celular.</p>
+            
+            <img class="img-fluid" src="img/HypeIlustrado.png" alt="Rótulo Formulado Hype Drink">
+            
+            <p style="text-align:left; font-size:15px; background:var(--light-bg); padding:15px; border-radius:10px;">
+                <strong>O Segredo dos Ingredientes Chave:</strong><br><br>
+                🔋 <strong>Liftoff:</strong> Proporciona suporte cognitivo, foco e concentração integrados.<br>
+                🍵 <strong>Herbal Concentrate (Aromático) ou N-R-G:</strong> Contribui com o metabolismo e estímulo de disposição corporal.<br>
+                🏃‍♂️ <strong>CR7 Drive:</strong> Auxilia na reidratação ideal e repõe sais minerais cruciais.
+            </p>
+
+            <h2 style="font-size:18px; margin: 30px 0 15px 0;">Como Preparar seu Hype Drink (5 Passos Simples)</h2>
+            
+            <div style="text-align:left; display:inline-block; max-width:550px;">
+                <ol style="margin-left:20px; line-height:2;">
+                    <li><strong>Escolha o recipiente de elite:</strong> Use um copo esportivo de 550ml a 600ml.</li>
+                    <li><strong>Adicione gelo:</strong> Complete com bastante gelo para um frescor vibrante.</li>
+                    <li><strong>Faça a base:</strong> Adicione cerca de 250ml de água purificada (natural ou gaseificada).</li>
+                    <li><strong>Integre seus suplementos:</strong> Adicione as dosagens conforme prescrição técnica do seu consultor.</li>
+                    <li><strong>Homogeneíze:</strong> Agite moderadamente ou misture até diluir por completo.</li>
+                </ol>
+            </div>
+            
+            <div style="margin-top:30px;">
+                <a href="https://wa.me/5551999663200?text=Quero%20Saber%20mais%20Sobre%20o%20HypeDrink" class="btn-primary-whats">🛒 PEDIR MEUS INGREDIENTES</a>
+            </div>
+
+            <div style="margin-top: 30px; font-size: 13px; opacity:0.8;">
+                <p>Deseja ver a planilha de modelagem comercial para expansão?</p>
+                <a href="investimento.html" style="color:var(--primary); font-weight:bold; text-decoration:none;">Acesse nossa Tabela de Investimento e Retorno Financeiro</a>
+            </div>
+        </div>
+
+                    <!-- Botão Página Inicial -->
+            <div style="text-align:center;margin:20px 0;">
+                <a href="index.html"
+                   style="display:inline-block;padding:10px 24px;border:1px solid #ccc;
+                          border-radius:50px;color:#888;background:#fff;
+                          font-family:'Montserrat',sans-serif;font-size:13px;
+                          font-weight:700;text-decoration:none;text-transform:uppercase;
+                          letter-spacing:0.5px;transition:all 0.2s;">
+                    ← Página Inicial
+                </a>
+            </div>
+
+        
+    </main>
+
+</body>
+</html>
+
+
+
+
+
+-*/-*/-*/-*-*-*/--/
+
+
+hypedrink    ->   investimento.html    
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <script src="https://edusidegum.github.io/menu/bloco-includes.js" defer></script>
+
+    <!-- ═══════════ SEO LOCAL • Estadual  ═══════════ -->
+    <meta name="description" content="Herbalife Distribuidor Independente  - Brasil, Rio Grande Do Sul, Vale do Sinos">
+
+    <meta name="keywords" content="Shake Herbalife, Shake nº 1, Controle de Peso, Chá Verde , Cha Termogênicos, Suplementos , Vitaminas, Espaço Vida Saudável, Espaço Herbalife, Oportunidade de Negócio, Distribuidor Herbalife, Vendedor Herbalife, Vale do Sinos, Vale do Taquari, Novo Hamburgo, São Leopoldo, Campo Bom, Sapiranga, Estância Velha, Portão, Lajeado, Estrela, Teutônia, Encantado, Arroio do Meio, Taquari, Poço das Antas, Rio Grande do Sul, RS, Brasil">
+
+    <meta name="geo.region" content="BR-RS">
+    <meta name="geo.placename" content="Vale do Sinos • Vale do Taquari • Rio Grande do Sul • Brasil">
+    <meta name="geo.position" content="-29.4333;-51.4167">
+    <meta name="ICBM" content="-29.6887, -51.1344">
+
+    <meta name="DC.coverage" content="Vale do Sinos, Vale do Taquari, Rio Grande do Sul, Brasil">
+    <meta name="DC.description" content="Distribuidor Herbalife atende todo o Brasil, entrega direta via Frete Grátis Cliente Premium Herbalife. ">
+
+    
+<head>
+ <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet" media="print" onload="this.onload=null;this.media='all'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="assets/css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO On-Page -->
+    <meta name="description" content="Herbalife Distribuidor Independente . Atendimento a todo o Brasil via Cliente Premium Herbalife. consultoria especializada.">
+    <meta name="author" content="Eduardo Sidegum">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#0d0d0d">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Herbalife Distribuidor Independente autorizado.">
+    <meta property="og:description" content="Herbalife, nutrição para uma vida melhor">
+    <meta property="og:image" content="https://edusidegum.github.io/hypedrink/img/Herbalife-Logo.png">
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:url" content="https://edusidegum.github.io/hypedrink/">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="pt_BR">
+
+    <title>Investimento Sugerido - estudo de Margem - 2026 - Herbalife Distribuidor Independente</title>
+
+    <link rel="canonical" href="https://edusidegum.github.io/hypedrink/">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <main class="container">
+        
+        <div class="card">
+            
+    <!-- ═══ OPORTUNIDADE DE NEGÓCIO ═══ -->
+    <section class="card" style="border:2px solid rgba(120,190,32,.4);" aria-labelledby="headline-negocio">
+        <h2 id="headline-negocio" style="color:#78BE20;">💰 Alavanca de Expansão e Performance Financeira</h2>
+
+        <p style="font-size:15px;color:#ddd;margin-bottom:16px;">
+            <strong>Você já tem a confiança dos seus clientes. Agora tenha também uma renda extra recorrente.</strong>
+        </p>
+
+        <p>
+            Se você é <strong>motorista de aplicativo, dono(a) de salão de beleza, barbeiro, personal trainer, 
+            esteticista, nutricionista ou qualquer profissional que atende pessoas todos os dias</strong>, 
+            imagine transformar cada conversa em uma oportunidade: oferecer nutrição de qualidade que complementa 
+            o seu atendimento — e ainda <strong>receber por isso todo mês</strong>.
+        </p>
+
+        <p>
+            Sem estoque. Sem investimento inicial. Sem metas obrigatórias. Apenas <strong>indicação inteligente</strong> 
+            com o respaldo da marca número 1 em nutrição e bem-estar do mundo, presente em 95 países.
+        </p>
+
+        <p style="margin-top:16px;">
+            <strong>📊 Veja como funciona na prática:</strong>
+        </p>
+
+        <a href="investimento.html" style="display:inline-block;background:#78BE20;color:#0d0d0d;font-family:'Montserrat',sans-serif;font-weight:800;font-size:.85rem;text-transform:uppercase;text-decoration:none;padding:12px 24px;border-radius:50px;letter-spacing:.5px;margin:12px 0;transition:all .3s;" onmouseover="this.style.background='#8ae029'" onmouseout="this.style.background='#78BE20'">
+            📋 Ver Tabela: Kit Degustação vs Kit Performance
+        </a>
+
+        <p style="font-size:13px;color:#aaa;margin-top:8px;">
+            A métrica oficial por dose está detalhada na página. Use como base técnica para seus planejamentos 
+            e projeções comerciais.
+        </p>
+    </section>
+
+            
+            <h2>Tabela Geral (Kit Degustação vs Kit Performance)</h2>
+            
+            <div class="table-responsive">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Indicadores Relevantes</th>
+                            <th>Kit Degustação (30 Doses)</th>
+                            <th>Kit Performance (240 Doses)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Nível de Desconto do Modelo</td>
+                            <td>Prata (23% de Desconto)</td>
+                            <td>Ouro (32% de Desconto)</td>
+                        </tr>
+                        <tr>
+                            <td>Pontos de Volume (PV)</td>
+                            <td>196,35 PV</td>
+                            <td>785,40 PV</td>
+                        </tr>
+                        <tr>
+                            <td>Custo Médio de Aquisição Total</td>
+                            <td>R$ 726,11</td>
+                            <td>R$ 4.855,16</td>
+                        </tr>
+                        <tr>
+                            <td>Receita Estimada (R$ 35/Dose)</td>
+                            <td>R$ 1.050,00</td>
+                            <td>R$ 8.400,00</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Margem de Economia/Lucro Líquido</strong></td>
+                            <td style="color:#25D366; font-weight:bold;">R$ 323,89</td>
+                            <td style="color:#25D366; font-weight:bold;">R$ 3.544,84</td>
+                        </tr>
+                        <tr>
+                            <td>Margem Percentual Real</td>
+                            <td>30,8%</td>
+                            <td>42,2%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h2 style="margin-top:40px;">Projeções por Porção Unidade (Diferencial Econômico)</h2>
+            
+            <div class="table-responsive">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Insumos do Hype</th>
+                            <th>Custo Base (Prata/23%)</th>
+                            <th>Custo Elite (Ouro/32%)</th>
+                            <th>Preço de Atendimento</th>
+                            <th>Sua Economia/Retorno (Ouro)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>CR7 Drive (Dose)</td>
+                            <td>R$ 6,24</td>
+                            <td>R$ 5,53</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>NRG 100g (Dose)</td>
+                            <td>R$ 3,23</td>
+                            <td>R$ 2,49</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Herbal Concentrate (Dose)</td>
+                            <td>R$ 4,67</td>
+                            <td>R$ 4,14</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Liftoff (Dose)</td>
+                            <td>R$ 10,06</td>
+                            <td>R$ 8,43</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr style="background:#F0FDF4; font-weight:bold;">
+                            <td>Total por Porção</td>
+                            <td>R$ 24,20</td>
+                            <td>R$ 20,23</td>
+                            <td>R$ 35,00</td>
+                            <td style="color:#25D366;">R$ 14,77 LÍQUIDO</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="card" style="background:var(--light-bg); border-left: 5px solid var(--primary); text-align:left;">
+                <p><strong>Diretriz de Fechamento do Líder:</strong></p>
+                <p style="font-style:italic; margin-top:10px;">"A próxima etapa para a sua transformação financeira é o início da operação. Com o Kit Performance, você atinge o nível Ouro, garante a maior margem de lucro e oferece um protocolo de elite aos seus clientes. Vamos realizar o seu pedido e começar a construir sua base de resultados?"</p>
+            </div>
+
+            <a href="https://wa.me/5551999663200?text=Quero%20Ser%20um%20Consultor%20Herbalife,%20como%20faço%20?" class="btn-primary-whats">🔑 REALIZAR MEU PEDIDO & INICIAR OPERAÇÃO</a>
+            
+            <div style="margin-top:10px;">
+                <a href="preparo.html" style="text-decoration:none; color:#555; font-size:13px;">Voltar para o Modo de Preparo</a>
+            </div>
+
+        </div>
+
+            <!-- Botão Página Inicial -->
+            <div style="text-align:center;margin:20px 0;">
+                <a href="index.html"
+                   style="display:inline-block;padding:10px 24px;border:1px solid #ccc;
+                          border-radius:50px;color:#888;background:#fff;
+                          font-family:'Montserrat',sans-serif;font-size:13px;
+                          font-weight:700;text-decoration:none;text-transform:uppercase;
+                          letter-spacing:0.5px;transition:all 0.2s;">
+                    ← Página Inicial
+                </a>
+            <!-- ═══ DISCLAIMER DE RENDIMENTOS ═══ -->
+    <div class="disclaimer-rendimentos" style="background:rgba(120,190,32,.04);border:1px solid rgba(120,190,32,.12);border-radius:8px;padding:14px 16px;margin-top:24px;">
+        <p style="font-size:.68rem;color:#777;line-height:1.65;margin:0;text-align:center;">
+            <strong style="color:#78BE20;">Aviso de Rendimentos:</strong> 
+            Os ganhos como Distribuidor Independente Herbalife dependem exclusivamente do esforço individual, 
+            dedicação e habilidade de cada pessoa. Não há garantia de renda mínima. 
+            Os resultados financeiros variam conforme o volume de vendas e o desenvolvimento da rede de clientes. 
+            Consulte o <a href="https://www.herbalife.com/pt-br/declaracao-de-rendimentos-medios" target="_blank" rel="noopener" style="color:#78BE20;text-decoration:underline;">Statement de Rendimentos Médios</a> 
+            para informações oficiais. Esta não é uma oferta de franquia ou emprego — é uma oportunidade 
+            de negócio independente.
+        </p>
+    </div>
+
+</main>
+    </div>
+        
+    </main>
+
+</body>
+</html>  
+
+
+
+
+-*/-*/-*-*/-*/-*/-*/-*/-

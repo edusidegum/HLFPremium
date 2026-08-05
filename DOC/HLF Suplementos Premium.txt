@@ -1,0 +1,754 @@
+HLF Suplementos Premium
+
+INVENTÁRIO DE IMAGENS
+
+Planejamento de ativos visuais para o microsite HLFPremium
+
+04 de agosto de 2026
+
+---
+
+### 1. ASSETS GLOBAIS (Todas as páginas)
+
+
+
+
+Arquivo WebP
+Descrição objetiva
+Página/uso
+Alt text
+Fonte/autorização
+Status
+
+
+
+
+logo-hlf.webp
+Logotipo oficial HLF Suplementos Premium
+Header e Footer
+Logotipo HLF Suplementos Premium - Edu Sidegum
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+favicon.webp
+Ícone simplificado para aba do navegador
+Head (Global)
+Ícone HLF Suplementos Premium
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+og-image.webp
+Imagem de compartilhamento (1200x630)
+Social/Meta
+HLF Suplementos Premium - Nutrição e Bem-estar
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+
+
+
+Observação Ícones/UI: Ícones de WhatsApp, telefone, e-mail, setas, checkmarks e redes sociais são implementados via SVG inline por decisão arquitetural, não constando neste inventário como arquivos de imagem.
+
+
+### 2. HOME (index.html)
+
+
+
+
+Arquivo WebP
+Descrição objetiva
+Página/uso
+Alt text
+Fonte/autorização
+Status
+
+
+
+
+hero-home.webp
+Banner principal (LCP)
+Home / Hero
+Suplementação premium e consultoria personalizada em Novo Hamburgo
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+banner-atendimento.webp
+Imagem da seção de consultoria
+Home / Atendimento
+Consultor Eduardo prestando atendimento personalizado
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+prova-processo-1.webp
+Etapa 1: Contato inicial
+Home / Retenção
+Primeiro contato para definição de objetivos nutricionais
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+prova-processo-2.webp
+Etapa 2: Escolha de produtos
+Home / Retenção
+Seleção de produtos baseada no Guia Oficial 2025
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+prova-processo-3.webp
+Etapa 3: Acompanhamento
+Home / Retenção
+Suporte contínuo e ajuste de rotina nutricional
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+comparativo-rotina.webp
+Gráfico/Imagem comparativa
+Home / Retenção
+Comparativo visual entre rotina comum e rotina com suplementação
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+faq-home.webp
+Imagem de suporte à seção FAQ
+Home / FAQ
+Dúvidas frequentes sobre suplementação e bem-estar
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+
+
+### 3. ATENDIMENTO (atendimento/index.html)
+
+
+
+
+Arquivo WebP
+Descrição objetiva
+Página/uso
+Alt text
+Fonte/autorização
+Status
+
+
+
+
+atendimento-hero.webp
+Banner da página de atendimento
+Atendimento / Hero
+Atendimento personalizado e consultoria em nutrição
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+atendimento-etapa-1.webp
+Conversa inicial e objetivos
+Atendimento / Processo
+Alinhamento de metas de saúde e bem-estar
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+atendimento-etapa-2.webp
+Identificação de perfil
+Atendimento / Processo
+Análise de necessidades nutricionais específicas
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+atendimento-etapa-3.webp
+Consulta técnica oficial
+Atendimento / Processo
+Verificação de informações no Guia de Produtos Oficial
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+atendimento-etapa-4.webp
+Encaminhamento e pós-venda
+Atendimento / Processo
+Suporte após a aquisição dos produtos
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+
+
+### 4. PRODUTOS HERBALIFE (produtos-herbalife/index.html)
+
+
+
+
+Arquivo WebP
+Descrição objetiva
+Página/uso
+Alt text
+Fonte/autorização
+Status
+
+
+
+
+produtos-hero.webp
+Banner da vitrine de produtos
+Produtos / Hero
+Linha completa de suplementos Herbalife 2025
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+produto-placeholder.webp
+Imagem padrão para itens sem foto
+Produtos / Cards
+Imagem ilustrativa de produto Herbalife
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+
+
+### 5. CATEGORIAS (categorias/...)
+
+
+
+
+Arquivo WebP
+Descrição objetiva
+Página/uso
+Alt text
+Fonte/autorização
+Status
+
+
+
+
+cat-proteinas.webp
+Destaque da linha de proteínas
+Categorias / Proteínas
+Suplementos proteicos, Whey e Protein Powder
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+cat-controle-peso.webp
+Destaque controle de peso
+Categorias / Peso
+Shakes e substitutos parciais de refeição
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+cat-nutricao-esportiva.webp
+Destaque linha esportiva
+Categorias / Esporte
+Linha Herbalife24 e performance esportiva
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+cat-praticidade-lanches.webp
+Destaque lanches e snacks
+Categorias / Lanches
+Barras de proteína e snacks saudáveis
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+cat-rotina-bem-estar.webp
+Destaque bem-estar diário
+Categorias / Bem-estar
+Vitaminas, minerais e chás para o dia a dia
+Acervo do usuário (1000+ imagens) — autorização a confirmar
+PENDENTE_DE_BUSCA
+
+
+
+
+### 6. IMAGENS DE PRODUTO INDIVIDUAIS
+
+
+
+
+Arquivo WebP
+Descrição objetiva
+SKU / Ref
+Alt text
+Fonte/autorização
+Status
+
+
+
+
+shake-chocolate.webp
+Shake sabor Chocolate
+Subst. Refeição
+Shake Herbalife sabor Chocolate Cremoso
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+shake-baunilha.webp
+Shake sabor Baunilha
+Subst. Refeição
+Shake Herbalife sabor Baunilha
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+shake-morango.webp
+Shake sabor Morango
+Subst. Refeição
+Shake Herbalife sabor Morango
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+nutri-soup.webp
+Nutri Soup (Sopa)
+Subst. Refeição
+Nutri Soup Herbalife - Sopa Nutritiva
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+nutrev.webp
+Nutrev Bebida Vegetal
+Nutrição Base
+Nutrev - Alimento à base de proteína de soja
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+onactive-drink.webp
+OnActive Drink 40+
+Longevidade
+OnActive Drink com Luteína e Zeaxantina
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+protein-powder.webp
+Personalized Protein Powder
+Proteína
+Protein Powder Herbalife para reforço proteico
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+protein-crunch.webp
+Protein Crunch
+Proteína
+Protein Crunch - Crispies de proteína isolada
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+barra-proteina.webp
+Barra de Proteína
+Lanches
+Barra de Proteína Herbalife sabor Brownie
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+sopa-snack-proteica.webp
+Sopa Snack Proteica
+Lanches
+Sopa Snack Proteica - Lanche rápido
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+whey-3w.webp
+Whey Protein 3W
+#147K / #191K
+Whey Protein 3W Herbalife24 Performance
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+tri-core.webp
+Tri-Core Protein Blend
+Esportivo
+Tri-Core Protein Blend - Mix de proteínas
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+fiber-powder.webp
+Fiber Powder
+Fibras
+Fiber Powder - Fibra em pó sem sabor
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+fiber-concentrate.webp
+Fiber Concentrate
+Fibras
+Fiber Concentrate sabor Manga ou Uva
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+shape-control.webp
+Shape Control
+Controle
+Shape Control com Laranja Moro e Cromo
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+herbalifeline.webp
+Herbalifeline Omega-3
+Saúde
+Herbalifeline - Suplemento de Ômega-3
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+multivitaminas.webp
+Multivitaminas e Minerais
+Saúde
+Complexo Multivitamínico e Mineral Herbalife
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+xtra-cal.webp
+Xtra-Cal
+Saúde
+Xtra-Cal - Cálcio, Magnésio e Vitamina D
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+herbal-concentrate.webp
+Herbal Concentrate (Chá)
+Hidratação
+Herbal Concentrate - Chá termogênico Herbalife
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+nrg.webp
+N-R-G Guaraná
+Energia
+N-R-G - Guaraná e Chá Preto em pó
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+liftoff-amora.webp
+Liftoff Amora
+#190K
+Liftoff sabor Amora - Energético efervescente
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+liftoff-limao.webp
+Liftoff Limão Siciliano
+#317K
+Liftoff sabor Limão Siciliano
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+liftoff-abacaxi.webp
+Liftoff Abacaxi
+#371K
+Liftoff sabor Abacaxi
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+creatina-premium.webp
+Creatina Premium
+Esportivo
+Creatina Premium Herbalife24
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+cr7-drive.webp
+CR7 Drive
+Esportivo
+CR7 Drive - Hidratação e performance esportiva
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+bcaa.webp
+Herbalife24 BCAA
+#148K
+BCAA Herbalife24 - Aminoácidos de cadeia ramificada
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+glutamina.webp
+Herbalife24 Glutamina
+#146K
+Glutamina Herbalife24 para recuperação muscular
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+beauty-booster.webp
+Beauty Booster Colágeno
+Beleza
+Beauty Booster com Colágeno Verisol
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+cleanser-facial.webp
+Cleanser Facial Cítrico
+#0766
+Cleanser Facial Cítrico Herbalife Skin
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+serum-facial.webp
+Sérum Facial Redutor
+#0768
+Sérum Facial Redutor de Linhas Herbalife Skin
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+gel-olhos.webp
+Gel Firmador Olhos
+#0770
+Gel Firmador para os Olhos Herbalife Skin
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+mascara-argila.webp
+Máscara de Argila
+#0773
+Máscara Purificante de Argila com Menta
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+soft-green.webp
+Linha Soft Green
+Corpo
+Linha Corporal Soft Green Herbalife
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+
+
+### 7. CONTEÚDO (conteudo/...)
+
+
+
+
+Arquivo WebP
+Descrição objetiva
+Página/uso
+Alt text
+Fonte/autorização
+Status
+
+
+
+
+conteudo-guia-nutricao.webp
+Capa do Guia de Nutrição
+Artigo / Capa
+Guia Prático de Nutrição e Suplementação
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+infografico-guia.webp
+Infográfico interno
+Artigo / Interna
+Infográfico explicativo sobre grupos alimentares
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+conteudo-como-escolher-proteina.webp
+Capa do artigo de proteínas
+Artigo / Capa
+Como escolher a melhor proteína para seu objetivo
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+comparativo-proteinas.webp
+Tabela comparativa visual
+Artigo / Interna
+Comparativo entre Whey, Soja e Caseína
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+conteudo-rotina-suplementacao.webp
+Capa do artigo de rotina
+Artigo / Capa
+Organizando sua rotina de suplementação diária
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+cronograma-rotina.webp
+Cronograma visual
+Artigo / Interna
+Sugestão de horários para cada suplemento
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+perguntas-frequentes.webp
+Capa da seção FAQ
+Artigo / Capa
+Respostas para as principais dúvidas sobre Herbalife
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+
+
+### 8. NOVO HAMBURGO (novo-hamburgo/index.html)
+
+
+
+
+Arquivo WebP
+Descrição objetiva
+Página/uso
+Alt text
+Fonte/autorização
+Status
+
+
+
+
+novo-hamburgo-hero.webp
+Imagem editorial da região
+Local / Hero
+Atendimento Herbalife em Novo Hamburgo e Vale do Sinos
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+
+
+### 9. OPORTUNIDADE (oportunidade/index.html)
+
+
+
+
+Arquivo WebP
+Descrição objetiva
+Página/uso
+Alt text
+Fonte/autorização
+Status
+
+
+
+
+oportunidade-hero.webp
+Banner empreendedorismo
+Oportunidade / Hero
+Seja um Distribuidor Independente Herbalife
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+oportunidade-etapa-1.webp
+Processo de cadastro
+Oportunidade / Retenção
+Passo a passo para iniciar seu negócio próprio
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+oportunidade-etapa-2.webp
+Treinamento e suporte
+Oportunidade / Retenção
+Acesso a materiais oficiais e capacitação
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+oportunidade-etapa-3.webp
+Gestão de clientes
+Oportunidade / Retenção
+Ferramentas para atendimento e fidelização
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+
+
+### 10. CADASTRO (cadastro.html)
+
+
+
+
+Arquivo WebP
+Descrição objetiva
+Página/uso
+Alt text
+Fonte/autorização
+Status
+
+
+
+
+cadastro-hero.webp
+Banner da página de cadastro
+Cadastro / Hero
+Inicie seu cadastro para consultoria personalizada
+Acervo do usuário (1000+ imagens)
+PENDENTE_DE_BUSCA
+
+
+
+
+---
+
+### NOTAS E DIRETRIZES TÉCNICAS
+
+1.  **Formato e Otimização:** Utilizar exclusivamente o formato **WebP**. Todas as imagens devem ter o metadado EXIF higienizado (removendo GPS, modelo de câmera e dados pessoais) antes do upload.
+2.  **Dimensões:** Definir atributos `width` e `height` explicitamente no HTML para evitar *Layout Shift*.
+3.  **Performance:**
+    *   **LCP (Largest Contentful Paint):** Imagens marcadas como Hero devem usar `fetchpriority="high"` e `loading="eager"`.
+    *   **Lazy Loading:** Todas as imagens abaixo da dobra devem usar `loading="lazy"`.
+4.  **Acessibilidade:** O `alt text` deve ser descritivo e funcional, evitando repetição desnecessária de palavras-chave.
+5.  **Restrições Éticas:** É terminantemente proibido o uso de imagens de "antes e depois", corpos idealizados, fotos de celebridades sem contrato de imagem explícito ou selos de certificação sem link para a fonte verificável.
+
+### FLUXO DE TRABALHO
+
+1.  Selecionar imagem correspondente no acervo de 1000+ fotos.
+2.  Redimensionar para o tamanho de exibição final (evitar redimensionamento via CSS).
+3.  Converter para WebP com compressão lossy (qualidade 75-85%).
+4.  Higienizar metadados EXIF.
+5.  Salvar em `assets/img/` com o nome exato definido neste inventário.
+6.  Atualizar o status para **APROVADO** neste documento.
+
+### OBSERVAÇÃO PRODUTOS
+
+As imagens de produto devem ser salvas localmente. O catálogo oficial (`https://catalogoherbalife.com.br/edusidegum`) serve como referência para validação de dados técnicos e visuais, mas o microsite não deve realizar requisições de imagens para servidores externos.
+
+*Documento elaborado em 04 de agosto de 2026. As informações contidas são de responsabilidade do solicitante.*

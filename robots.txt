@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /DOC/
+Disallow: /tabelas/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://edusidegum.github.io/HLFPremium/sitemap.xml
